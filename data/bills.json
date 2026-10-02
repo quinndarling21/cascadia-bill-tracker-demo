@@ -11,9 +11,9 @@
       "summary": "Requires every law enforcement agency to seal arrest and conviction records for cannabis possession under CCC 12-410, and under equivalent local charge codes, for offenses dated before January 1, 2024. Sealed records are excluded from court data exports and public records reports and remain visible only to authorized court users, with every access audited; each agency must report how many records it sealed within 30 days after the effective date.",
       "sponsor": "Sen. Maya Okafor (D-12)",
       "committee": "Senate Judiciary",
-      "status": "In committee",
-      "status_date": "2026-01-22",
-      "status_changed_at": "2026-01-22T10:15:00-08:00",
+      "status": "Signed by Governor",
+      "status_date": "2026-10-02",
+      "status_changed_at": "2026-10-02T15:45:24-07:00",
       "effective_date": "2027-04-01",
       "topics": [
         "criminal records",
@@ -34,6 +34,18 @@
         {
           "date": "2026-02-18",
           "action": "Public hearing in Senate Judiciary"
+        },
+        {
+          "date": "2026-10-02",
+          "action": "Passed Senate"
+        },
+        {
+          "date": "2026-10-02",
+          "action": "Passed House"
+        },
+        {
+          "date": "2026-10-02",
+          "action": "Signed by Governor"
         }
       ],
       "sections": [
