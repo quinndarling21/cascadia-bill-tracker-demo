@@ -5,8 +5,20 @@
     <link>https://quinndarling21.github.io/cascadia-bill-tracker-demo/</link>
     <description>Status changes for bills in the 2026 Regular Session of the Cascadia State Legislature.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 14:40:49 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 14:46:39 -0700</lastBuildDate>
     <atom:link href="https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/feed.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SB 214 · Cannabis Conviction Clearance Act · Signed by Governor</title>
+      <link>https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-214.html</link>
+      <guid isPermaLink="false">sb-214-signed-by-governor-2026-10-02-20261002T214639Z</guid>
+      <pubDate>Fri, 02 Oct 2026 14:46:39 -0700</pubDate>
+      <description>Status: Signed by Governor (October 2, 2026). Effective date: April 1, 2027. Requires every law enforcement agency to seal arrest and conviction records for cannabis possession under CCC 12-410, and under equivalent local charge codes, for offenses dated before January 1, 2024. Sealed records are excluded from court data exports and public records reports and remain visible only to authorized court users, with every access audited; each agency must report how many records it sealed within 30 days after the effective date.</description>
+      <category>criminal records</category>
+      <category>record sealing</category>
+      <category>court exports</category>
+      <category>public records</category>
+      <category>reporting</category>
+    </item>
     <item>
       <title>SB 18 · Wildfire Smoke Alerts · Passed Senate</title>
       <link>https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-18.html</link>
@@ -70,18 +82,6 @@
       <category>fireworks</category>
       <category>permits</category>
       <category>fees</category>
-    </item>
-    <item>
-      <title>SB 214 · Cannabis Conviction Clearance Act · In committee</title>
-      <link>https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-214.html</link>
-      <guid isPermaLink="false">sb-214-in-committee-2026-01-22-20260122T181500Z</guid>
-      <pubDate>Thu, 22 Jan 2026 10:15:00 -0800</pubDate>
-      <description>Status: In committee (January 22, 2026). Effective date: April 1, 2027. Requires every law enforcement agency to seal arrest and conviction records for cannabis possession under CCC 12-410, and under equivalent local charge codes, for offenses dated before January 1, 2024. Sealed records are excluded from court data exports and public records reports and remain visible only to authorized court users, with every access audited; each agency must report how many records it sealed within 30 days after the effective date.</description>
-      <category>criminal records</category>
-      <category>record sealing</category>
-      <category>court exports</category>
-      <category>public records</category>
-      <category>reporting</category>
     </item>
   </channel>
 </rss>

@@ -2,8 +2,22 @@
   "title": "Cascadia Legislature · Bill Tracker",
   "link": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/",
   "description": "Status changes for bills in the 2026 Regular Session of the Cascadia State Legislature.",
-  "last_build_date": "2026-10-02T14:40:49-07:00",
+  "last_build_date": "2026-10-02T14:46:39-07:00",
   "items": [
+    {
+      "title": "SB 214 · Cannabis Conviction Clearance Act · Signed by Governor",
+      "link": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-214.html",
+      "guid": "sb-214-signed-by-governor-2026-10-02-20261002T214639Z",
+      "pub_date": "2026-10-02T14:46:39-07:00",
+      "description": "Status: Signed by Governor (October 2, 2026). Effective date: April 1, 2027. Requires every law enforcement agency to seal arrest and conviction records for cannabis possession under CCC 12-410, and under equivalent local charge codes, for offenses dated before January 1, 2024. Sealed records are excluded from court data exports and public records reports and remain visible only to authorized court users, with every access audited; each agency must report how many records it sealed within 30 days after the effective date.",
+      "categories": [
+        "criminal records",
+        "record sealing",
+        "court exports",
+        "public records",
+        "reporting"
+      ]
+    },
     {
       "title": "SB 18 · Wildfire Smoke Alerts · Passed Senate",
       "link": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-18.html",
@@ -80,20 +94,6 @@
         "fireworks",
         "permits",
         "fees"
-      ]
-    },
-    {
-      "title": "SB 214 · Cannabis Conviction Clearance Act · In committee",
-      "link": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-214.html",
-      "guid": "sb-214-in-committee-2026-01-22-20260122T181500Z",
-      "pub_date": "2026-01-22T10:15:00-08:00",
-      "description": "Status: In committee (January 22, 2026). Effective date: April 1, 2027. Requires every law enforcement agency to seal arrest and conviction records for cannabis possession under CCC 12-410, and under equivalent local charge codes, for offenses dated before January 1, 2024. Sealed records are excluded from court data exports and public records reports and remain visible only to authorized court users, with every access audited; each agency must report how many records it sealed within 30 days after the effective date.",
-      "categories": [
-        "criminal records",
-        "record sealing",
-        "court exports",
-        "public records",
-        "reporting"
       ]
     }
   ]
