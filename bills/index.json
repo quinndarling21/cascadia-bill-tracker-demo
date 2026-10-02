@@ -3,7 +3,7 @@
     "legislature": "Cascadia State Legislature",
     "name": "2026 Regular Session"
   },
-  "generated_at": "2026-10-02T14:46:39-07:00",
+  "generated_at": "2026-10-02T14:49:20-07:00",
   "bills": [
     {
       "id": "SB 214",
@@ -12,9 +12,9 @@
       "summary": "Requires every law enforcement agency to seal arrest and conviction records for cannabis possession under CCC 12-410, and under equivalent local charge codes, for offenses dated before January 1, 2024. Sealed records are excluded from court data exports and public records reports and remain visible only to authorized court users, with every access audited; each agency must report how many records it sealed within 30 days after the effective date.",
       "sponsor": "Sen. Maya Okafor (D-12)",
       "committee": "Senate Judiciary",
-      "status": "Signed by Governor",
-      "status_date": "2026-10-02",
-      "status_changed_at": "2026-10-02T14:46:39-07:00",
+      "status": "In committee",
+      "status_date": "2026-01-22",
+      "status_changed_at": "2026-01-22T10:15:00-08:00",
       "effective_date": "2027-04-01",
       "topics": [
         "criminal records",
@@ -35,18 +35,6 @@
         {
           "date": "2026-02-18",
           "action": "Public hearing in Senate Judiciary"
-        },
-        {
-          "date": "2026-10-02",
-          "action": "Passed Senate"
-        },
-        {
-          "date": "2026-10-02",
-          "action": "Passed House"
-        },
-        {
-          "date": "2026-10-02",
-          "action": "Signed by Governor"
         }
       ],
       "sections": [
