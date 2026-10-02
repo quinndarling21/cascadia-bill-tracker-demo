@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Cascadia Legislature · Bill Tracker</title>
+    <link>https://quinndarling21.github.io/cascadia-bill-tracker-demo/</link>
+    <description>Status changes for bills in the 2026 Regular Session of the Cascadia State Legislature.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2026 14:40:49 -0700</lastBuildDate>
+    <atom:link href="https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/feed.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SB 18 · Wildfire Smoke Alerts · Passed Senate</title>
+      <link>https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-18.html</link>
+      <guid isPermaLink="false">sb-18-passed-senate-2026-09-24-20260924T180000Z</guid>
+      <pubDate>Thu, 24 Sep 2026 11:00:00 -0700</pubDate>
+      <description>Status: Passed Senate (September 24, 2026). Effective date: June 1, 2027. Requires the Department of Health to issue county-level wildfire smoke alerts when fine-particle air pollution is forecast to reach unhealthy levels, and sets protective steps for schools and outdoor workers while an alert is in effect.</description>
+      <category>wildfire</category>
+      <category>public health alerts</category>
+    </item>
+    <item>
+      <title>SB 310 · Fishing License Renewals · Passed House</title>
+      <link>https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-310.html</link>
+      <guid isPermaLink="false">sb-310-passed-house-2026-09-09-20260909T234500Z</guid>
+      <pubDate>Wed, 09 Sep 2026 16:45:00 -0700</pubDate>
+      <description>Status: Passed House (September 9, 2026). Effective date: March 1, 2027. Lets anglers renew recreational fishing licenses online or by phone, adds an opt-in automatic renewal with an advance reminder, and creates a 15-day grace period with no late fee.</description>
+      <category>fishing</category>
+      <category>licensing</category>
+    </item>
+    <item>
+      <title>HB 902 · State Park Day-Use Fee · Signed by Governor</title>
+      <link>https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/hb-902.html</link>
+      <guid isPermaLink="false">hb-902-signed-by-governor-2026-08-14-20260814T200500Z</guid>
+      <pubDate>Fri, 14 Aug 2026 13:05:00 -0700</pubDate>
+      <description>Status: Signed by Governor (August 14, 2026). Effective date: January 1, 2027. Sets a $10 per-vehicle day-use fee and a $45 annual pass for state parks, keeps entry free on the first Saturday of each month and for school field trips, and dedicates the revenue to park maintenance.</description>
+      <category>parks</category>
+      <category>fees</category>
+    </item>
+    <item>
+      <title>HB 455 · Rural Broadband Grants · In committee</title>
+      <link>https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/hb-455.html</link>
+      <guid isPermaLink="false">hb-455-in-committee-2026-03-05-20260305T173000Z</guid>
+      <pubDate>Thu, 05 Mar 2026 09:30:00 -0800</pubDate>
+      <description>Status: In committee (March 5, 2026). Effective date: July 1, 2027. Creates a competitive grant program to extend high-speed internet to unserved and underserved rural areas, sets minimum service speeds for funded projects, and requires a local funding match.</description>
+      <category>broadband</category>
+      <category>grants</category>
+    </item>
+    <item>
+      <title>SB 77 · School-Zone Speed Limits · Passed Senate</title>
+      <link>https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-77.html</link>
+      <guid isPermaLink="false">sb-77-passed-senate-2026-03-04-20260304T232000Z</guid>
+      <pubDate>Wed, 04 Mar 2026 15:20:00 -0800</pubDate>
+      <description>Status: Passed Senate (March 4, 2026). Effective date: July 1, 2027. Sets a 20 mph speed limit in school zones when children are present or warning beacons are flashing, defines how far each zone extends, and requires road authorities to post signs marking every zone.</description>
+      <category>traffic</category>
+      <category>school zones</category>
+    </item>
+    <item>
+      <title>HB 1220 · Daylight Saving Study · In committee</title>
+      <link>https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/hb-1220.html</link>
+      <guid isPermaLink="false">hb-1220-in-committee-2026-03-03-20260303T221000Z</guid>
+      <pubDate>Tue, 03 Mar 2026 14:10:00 -0800</pubDate>
+      <description>Status: In committee (March 3, 2026). Effective date: Upon enactment. Creates a temporary task force to compare permanent standard time with permanent daylight saving time and deliver recommendations to the legislature by December 1, 2027.</description>
+      <category>daylight saving time</category>
+      <category>study</category>
+    </item>
+    <item>
+      <title>HB 1187 · Fireworks Permit Fees · In committee</title>
+      <link>https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/hb-1187.html</link>
+      <guid isPermaLink="false">hb-1187-in-committee-2026-02-04-20260204T194000Z</guid>
+      <pubDate>Wed, 04 Feb 2026 11:40:00 -0800</pubDate>
+      <description>Status: In committee (February 4, 2026). Effective date: January 1, 2027. Caps the fees cities and counties may charge for consumer fireworks sales permits and public display permits, waives display fees for nonprofit and local government sponsors, and limits how the fee revenue may be spent.</description>
+      <category>fireworks</category>
+      <category>permits</category>
+      <category>fees</category>
+    </item>
+    <item>
+      <title>SB 214 · Cannabis Conviction Clearance Act · In committee</title>
+      <link>https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-214.html</link>
+      <guid isPermaLink="false">sb-214-in-committee-2026-01-22-20260122T181500Z</guid>
+      <pubDate>Thu, 22 Jan 2026 10:15:00 -0800</pubDate>
+      <description>Status: In committee (January 22, 2026). Effective date: April 1, 2027. Requires every law enforcement agency to seal arrest and conviction records for cannabis possession under CCC 12-410, and under equivalent local charge codes, for offenses dated before January 1, 2024. Sealed records are excluded from court data exports and public records reports and remain visible only to authorized court users, with every access audited; each agency must report how many records it sealed within 30 days after the effective date.</description>
+      <category>criminal records</category>
+      <category>record sealing</category>
+      <category>court exports</category>
+      <category>public records</category>
+      <category>reporting</category>
+    </item>
+  </channel>
+</rss>

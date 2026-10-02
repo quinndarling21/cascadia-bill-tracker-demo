@@ -1,0 +1,476 @@
+{
+  "session": {
+    "legislature": "Cascadia State Legislature",
+    "name": "2026 Regular Session"
+  },
+  "generated_at": "2026-10-02T14:40:49-07:00",
+  "bills": [
+    {
+      "id": "SB 214",
+      "slug": "sb-214",
+      "title": "Cannabis Conviction Clearance Act",
+      "summary": "Requires every law enforcement agency to seal arrest and conviction records for cannabis possession under CCC 12-410, and under equivalent local charge codes, for offenses dated before January 1, 2024. Sealed records are excluded from court data exports and public records reports and remain visible only to authorized court users, with every access audited; each agency must report how many records it sealed within 30 days after the effective date.",
+      "sponsor": "Sen. Maya Okafor (D-12)",
+      "committee": "Senate Judiciary",
+      "status": "In committee",
+      "status_date": "2026-01-22",
+      "status_changed_at": "2026-01-22T10:15:00-08:00",
+      "effective_date": "2027-04-01",
+      "topics": [
+        "criminal records",
+        "record sealing",
+        "court exports",
+        "public records",
+        "reporting"
+      ],
+      "history": [
+        {
+          "date": "2026-01-20",
+          "action": "Introduced"
+        },
+        {
+          "date": "2026-01-22",
+          "action": "Referred to Senate Judiciary"
+        },
+        {
+          "date": "2026-02-18",
+          "action": "Public hearing in Senate Judiciary"
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "heading": "Short title",
+          "text": "This act may be cited as the Cannabis Conviction Clearance Act."
+        },
+        {
+          "number": 2,
+          "heading": "Sealing of records",
+          "text": "Arrest and conviction records for possession under Cascadia Criminal Code (CCC) 12-410 with an offense date before January 1, 2024, shall be sealed by every law enforcement agency in the state no later than the effective date of this act."
+        },
+        {
+          "number": 3,
+          "heading": "Effect of sealing",
+          "text": "Sealed records shall be excluded from court data exports and from public records reports. A sealed record shall remain visible only to authorized court users, and each access to a sealed record shall be recorded in an audit trail."
+        },
+        {
+          "number": 4,
+          "heading": "Local equivalent charge codes",
+          "text": "Records charged under a local ordinance or county code that is equivalent to CCC 12-410, as mapped by each jurisdiction, are covered by this act to the same extent as records charged under CCC 12-410."
+        },
+        {
+          "number": 5,
+          "heading": "Reporting",
+          "text": "Within 30 days after the effective date, each law enforcement agency shall report to the State Court Administrator the number of records it sealed under this act."
+        }
+      ],
+      "url": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-214.html"
+    },
+    {
+      "id": "HB 1187",
+      "slug": "hb-1187",
+      "title": "Fireworks Permit Fees",
+      "summary": "Caps the fees cities and counties may charge for consumer fireworks sales permits and public display permits, waives display fees for nonprofit and local government sponsors, and limits how the fee revenue may be spent.",
+      "sponsor": "Rep. Colin Harrow (R-19)",
+      "committee": "House Local Government",
+      "status": "In committee",
+      "status_date": "2026-02-04",
+      "status_changed_at": "2026-02-04T11:40:00-08:00",
+      "effective_date": "2027-01-01",
+      "topics": [
+        "fireworks",
+        "permits",
+        "fees"
+      ],
+      "history": [
+        {
+          "date": "2026-02-02",
+          "action": "Introduced"
+        },
+        {
+          "date": "2026-02-04",
+          "action": "Referred to House Local Government"
+        },
+        {
+          "date": "2026-03-10",
+          "action": "Public hearing in House Local Government"
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "heading": "Retail sales permits",
+          "text": "A city, town, or county that requires a permit for the retail sale of consumer fireworks may not charge more than $250 per sales location for each permit season."
+        },
+        {
+          "number": 2,
+          "heading": "Public display permits",
+          "text": "The fee for a permit to conduct a public fireworks display may not exceed $400 per display. No fee may be charged for a display sponsored by a nonprofit organization or a unit of local government."
+        },
+        {
+          "number": 3,
+          "heading": "Use of fee revenue",
+          "text": "Permit fee revenue may be used only for fire safety inspections of sales locations and display sites, fireworks safety education, and the cost of issuing permits."
+        },
+        {
+          "number": 4,
+          "heading": "Effective date",
+          "text": "This act takes effect January 1, 2027."
+        }
+      ],
+      "url": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/hb-1187.html"
+    },
+    {
+      "id": "SB 77",
+      "slug": "sb-77",
+      "title": "School-Zone Speed Limits",
+      "summary": "Sets a 20 mph speed limit in school zones when children are present or warning beacons are flashing, defines how far each zone extends, and requires road authorities to post signs marking every zone.",
+      "sponsor": "Sen. Lucia Ferrante (D-4)",
+      "committee": "Senate Transportation",
+      "status": "Passed Senate",
+      "status_date": "2026-03-04",
+      "status_changed_at": "2026-03-04T15:20:00-08:00",
+      "effective_date": "2027-07-01",
+      "topics": [
+        "traffic",
+        "school zones"
+      ],
+      "history": [
+        {
+          "date": "2026-01-13",
+          "action": "Introduced"
+        },
+        {
+          "date": "2026-01-14",
+          "action": "Referred to Senate Transportation"
+        },
+        {
+          "date": "2026-02-03",
+          "action": "Public hearing in Senate Transportation"
+        },
+        {
+          "date": "2026-03-04",
+          "action": "Passed Senate"
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "heading": "School speed zones",
+          "text": "The maximum speed in a school speed zone is 20 miles per hour when children are present or when a school zone warning beacon is flashing."
+        },
+        {
+          "number": 2,
+          "heading": "Zone limits",
+          "text": "A school speed zone extends 300 feet in each direction from the boundary of school grounds along any public road that borders a public or private school."
+        },
+        {
+          "number": 3,
+          "heading": "Signs and beacons",
+          "text": "Each road authority shall post signs marking the beginning and end of every school speed zone under its jurisdiction and may install warning beacons that operate only during posted school hours."
+        },
+        {
+          "number": 4,
+          "heading": "Effective date",
+          "text": "This act takes effect July 1, 2027."
+        }
+      ],
+      "url": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-77.html"
+    },
+    {
+      "id": "HB 902",
+      "slug": "hb-902",
+      "title": "State Park Day-Use Fee",
+      "summary": "Sets a $10 per-vehicle day-use fee and a $45 annual pass for state parks, keeps entry free on the first Saturday of each month and for school field trips, and dedicates the revenue to park maintenance.",
+      "sponsor": "Rep. Elena Marsh (D-22)",
+      "committee": "House Natural Resources & Parks",
+      "status": "Signed by Governor",
+      "status_date": "2026-08-14",
+      "status_changed_at": "2026-08-14T13:05:00-07:00",
+      "effective_date": "2027-01-01",
+      "topics": [
+        "parks",
+        "fees"
+      ],
+      "history": [
+        {
+          "date": "2026-01-15",
+          "action": "Introduced"
+        },
+        {
+          "date": "2026-01-16",
+          "action": "Referred to House Natural Resources & Parks"
+        },
+        {
+          "date": "2026-03-02",
+          "action": "Passed House"
+        },
+        {
+          "date": "2026-07-30",
+          "action": "Passed Senate"
+        },
+        {
+          "date": "2026-08-14",
+          "action": "Signed by Governor"
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "heading": "Day-use fee",
+          "text": "The Department of Parks and Recreation shall charge a day-use fee of $10 per vehicle for entry to any state park that offers day-use facilities."
+        },
+        {
+          "number": 2,
+          "heading": "Annual pass",
+          "text": "The department shall offer an annual day-use pass for $45, valid at every state park for twelve months from the date of purchase."
+        },
+        {
+          "number": 3,
+          "heading": "Free entry",
+          "text": "No day-use fee is required on the first Saturday of each month, for school field trips, or for vehicles displaying a disabled veteran license plate."
+        },
+        {
+          "number": 4,
+          "heading": "Use of revenue",
+          "text": "Day-use fee revenue shall be deposited in the State Parks Maintenance Account and used for trails, restrooms, and visitor facilities."
+        },
+        {
+          "number": 5,
+          "heading": "Effective date",
+          "text": "This act takes effect January 1, 2027."
+        }
+      ],
+      "url": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/hb-902.html"
+    },
+    {
+      "id": "HB 455",
+      "slug": "hb-455",
+      "title": "Rural Broadband Grants",
+      "summary": "Creates a competitive grant program to extend high-speed internet to unserved and underserved rural areas, sets minimum service speeds for funded projects, and requires a local funding match.",
+      "sponsor": "Rep. Jared Thornquist (R-9)",
+      "committee": "House Appropriations",
+      "status": "In committee",
+      "status_date": "2026-03-05",
+      "status_changed_at": "2026-03-05T09:30:00-08:00",
+      "effective_date": "2027-07-01",
+      "topics": [
+        "broadband",
+        "grants"
+      ],
+      "history": [
+        {
+          "date": "2026-01-27",
+          "action": "Introduced"
+        },
+        {
+          "date": "2026-01-29",
+          "action": "Referred to House Technology & Economic Development"
+        },
+        {
+          "date": "2026-02-26",
+          "action": "Public hearing in House Technology & Economic Development"
+        },
+        {
+          "date": "2026-03-05",
+          "action": "Referred to House Appropriations"
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "heading": "Grant program",
+          "text": "The Department of Commerce shall establish a competitive grant program to extend high-speed internet service to unserved and underserved rural areas of the state."
+        },
+        {
+          "number": 2,
+          "heading": "Eligible applicants",
+          "text": "Counties, cities, tribes, public utility districts, port districts, and nonprofit cooperatives may apply for grants under this act."
+        },
+        {
+          "number": 3,
+          "heading": "Service standards",
+          "text": "Each funded project must provide download speeds of at least 100 megabits per second and upload speeds of at least 20 megabits per second to every location it serves."
+        },
+        {
+          "number": 4,
+          "heading": "Local match",
+          "text": "A grant may not exceed 75 percent of total project cost, except that the department may waive the match for projects in economically distressed counties."
+        },
+        {
+          "number": 5,
+          "heading": "Effective date",
+          "text": "This act takes effect July 1, 2027."
+        }
+      ],
+      "url": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/hb-455.html"
+    },
+    {
+      "id": "SB 310",
+      "slug": "sb-310",
+      "title": "Fishing License Renewals",
+      "summary": "Lets anglers renew recreational fishing licenses online or by phone, adds an opt-in automatic renewal with an advance reminder, and creates a 15-day grace period with no late fee.",
+      "sponsor": "Sen. Walt Brennerman (R-15)",
+      "committee": "Senate Natural Resources & Wildlife",
+      "status": "Passed House",
+      "status_date": "2026-09-09",
+      "status_changed_at": "2026-09-09T16:45:00-07:00",
+      "effective_date": "2027-03-01",
+      "topics": [
+        "fishing",
+        "licensing"
+      ],
+      "history": [
+        {
+          "date": "2026-01-21",
+          "action": "Introduced"
+        },
+        {
+          "date": "2026-01-23",
+          "action": "Referred to Senate Natural Resources & Wildlife"
+        },
+        {
+          "date": "2026-03-11",
+          "action": "Passed Senate"
+        },
+        {
+          "date": "2026-09-09",
+          "action": "Passed House"
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "heading": "Online and phone renewal",
+          "text": "The Department of Fish and Wildlife shall allow a recreational fishing license to be renewed online or by phone at any time during the 60 days before it expires."
+        },
+        {
+          "number": 2,
+          "heading": "Automatic renewal",
+          "text": "A license holder may choose automatic annual renewal. The department shall send a reminder at least 30 days before each automatic renewal is charged."
+        },
+        {
+          "number": 3,
+          "heading": "Grace period",
+          "text": "A license renewed within 15 days after it expires is treated as continuously valid, and no late fee may be charged during that period."
+        },
+        {
+          "number": 4,
+          "heading": "Effective date",
+          "text": "This act takes effect March 1, 2027."
+        }
+      ],
+      "url": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-310.html"
+    },
+    {
+      "id": "HB 1220",
+      "slug": "hb-1220",
+      "title": "Daylight Saving Study",
+      "summary": "Creates a temporary task force to compare permanent standard time with permanent daylight saving time and deliver recommendations to the legislature by December 1, 2027.",
+      "sponsor": "Rep. Nora Fairweather (D-27)",
+      "committee": "House State Government",
+      "status": "In committee",
+      "status_date": "2026-03-03",
+      "status_changed_at": "2026-03-03T14:10:00-08:00",
+      "effective_date": "Upon enactment",
+      "topics": [
+        "daylight saving time",
+        "study"
+      ],
+      "history": [
+        {
+          "date": "2026-03-02",
+          "action": "Introduced"
+        },
+        {
+          "date": "2026-03-03",
+          "action": "Referred to House State Government"
+        },
+        {
+          "date": "2026-03-24",
+          "action": "Public hearing in House State Government"
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "heading": "Task force created",
+          "text": "A seven-member task force on daylight saving time is created. The governor shall appoint members representing agriculture, schools, public health, transportation, and small business."
+        },
+        {
+          "number": 2,
+          "heading": "Scope of study",
+          "text": "The task force shall compare remaining on standard time year-round with observing daylight saving time year-round, including effects on sleep, traffic safety, energy use, and coordination with neighboring states."
+        },
+        {
+          "number": 3,
+          "heading": "Recommendations",
+          "text": "The task force shall deliver its findings and recommendations to the legislature by December 1, 2027, and expires on that date."
+        },
+        {
+          "number": 4,
+          "heading": "Effective date",
+          "text": "This act takes effect upon enactment."
+        }
+      ],
+      "url": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/hb-1220.html"
+    },
+    {
+      "id": "SB 18",
+      "slug": "sb-18",
+      "title": "Wildfire Smoke Alerts",
+      "summary": "Requires the Department of Health to issue county-level wildfire smoke alerts when fine-particle air pollution is forecast to reach unhealthy levels, and sets protective steps for schools and outdoor workers while an alert is in effect.",
+      "sponsor": "Sen. Hana Ishikawa (D-3)",
+      "committee": "Senate Health & Human Services",
+      "status": "Passed Senate",
+      "status_date": "2026-09-24",
+      "status_changed_at": "2026-09-24T11:00:00-07:00",
+      "effective_date": "2027-06-01",
+      "topics": [
+        "wildfire",
+        "public health alerts"
+      ],
+      "history": [
+        {
+          "date": "2026-01-12",
+          "action": "Introduced"
+        },
+        {
+          "date": "2026-01-14",
+          "action": "Referred to Senate Health & Human Services"
+        },
+        {
+          "date": "2026-06-16",
+          "action": "Public hearing in Senate Health & Human Services"
+        },
+        {
+          "date": "2026-09-24",
+          "action": "Passed Senate"
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "heading": "Smoke alerts",
+          "text": "The Department of Health shall issue a wildfire smoke alert for each county where the air quality index for fine particulate matter is forecast to exceed 150."
+        },
+        {
+          "number": 2,
+          "heading": "Alert delivery",
+          "text": "Alerts shall be sent through the state emergency notification system and broadcast media, posted on the department's website, and made available in the five languages most commonly spoken in each affected county."
+        },
+        {
+          "number": 3,
+          "heading": "Schools and outdoor workers",
+          "text": "While an alert is in effect, school districts in the affected county shall move recess and athletics indoors, and employers shall provide approved respirators to employees who work outdoors."
+        },
+        {
+          "number": 4,
+          "heading": "Effective date",
+          "text": "This act takes effect June 1, 2027."
+        }
+      ],
+      "url": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-18.html"
+    }
+  ]
+}
