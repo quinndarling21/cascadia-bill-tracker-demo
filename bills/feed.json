@@ -2,14 +2,14 @@
   "title": "Cascadia Legislature · Bill Tracker",
   "link": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/",
   "description": "Status changes for bills in the 2026 Regular Session of the Cascadia State Legislature.",
-  "last_build_date": "2026-10-02T15:45:24-07:00",
+  "last_build_date": "2026-10-02T16:15:44-07:00",
   "items": [
     {
       "title": "SB 214 · Cannabis Conviction Clearance Act · Signed by Governor",
       "link": "https://quinndarling21.github.io/cascadia-bill-tracker-demo/bills/sb-214.html",
       "guid": "sb-214-signed-by-governor-2026-10-02-20261002T224524Z",
       "pub_date": "2026-10-02T15:45:24-07:00",
-      "description": "Status: Signed by Governor (October 2, 2026). Effective date: April 1, 2027. Requires every law enforcement agency to seal arrest and conviction records for cannabis possession under CCC 12-410, and under equivalent local charge codes, for offenses dated before January 1, 2024. Sealed records are excluded from court data exports and public records reports and remain visible only to authorized court users, with every access audited; each agency must report how many records it sealed within 30 days after the effective date.",
+      "description": "Status: Signed by Governor (October 2, 2026). Effective date: April 1, 2027. Requires every law enforcement agency to seal arrest and conviction records for cannabis possession with an offense date before January 1, 2024, whether the charge is under CCC 12-410 or under any local ordinance or county code that the agency's records system classifies as cannabis possession. Juvenile records are excluded because they are already sealed under the Juvenile Records Confidentiality Act. Sealed records are excluded from court data exports and public records reports and remain visible only to authorized court users, with every access audited; each agency must report how many records it sealed within 30 days after the effective date.",
       "categories": [
         "criminal records",
         "record sealing",
